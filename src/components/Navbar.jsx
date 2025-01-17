@@ -34,7 +34,7 @@ export default function Navbar() {
       {/* Logo Section */}
       <NavLink
         to="/"
-        className="w-14 h-8 rounded-lg bg-white flex items-center justify-center font-bold shadow-md"
+        className="w-14 h-8 rounded-lg bg-white flex self-start items-center justify-center font-bold shadow-md"
       >
         <p className="green-gradient_text ">SUJIT</p>
       </NavLink>
